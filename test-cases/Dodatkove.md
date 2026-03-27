@@ -1,4 +1,4 @@
-# GreenCity Events - Negative Test Cases (Додаткове)
+# GreenCity Events - Negative Test Cases 
 
 ---
 
